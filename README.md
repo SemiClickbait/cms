@@ -6,7 +6,7 @@
 <a href="https://github.com/craftcms/cms/releases"><img src="https://img.shields.io/github/tag/craftcms/cms.svg?label=stable" alt="Latest Stable Version"></a>
 </p>
 
-## About Craft CMS
+## About Craft CMS :)
 
 Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 
